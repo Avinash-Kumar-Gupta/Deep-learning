@@ -10,4 +10,4 @@ link for data used in
     b.  trigger word detection
     c.  word vector representation
 
-is as follows:  
+is as follows:  https://drive.google.com/drive/folders/1E9n5TEQvTckrJLvB0Hg7QgNASC6iGYws
